@@ -1,5 +1,12 @@
 # netflix-clone
 
+## Screenshots
+<img width="960" alt="image" src="https://github.com/kartikayasija/netflix-clone/assets/115306535/15b05269-160c-4d41-9c46-988c02c42d2f">
+<img width="948" alt="image" src="https://github.com/kartikayasija/netflix-clone/assets/115306535/7a4a01b7-a453-451c-a102-80430ee9f813">
+<img width="945" alt="image" src="https://github.com/kartikayasija/netflix-clone/assets/115306535/3822d7bb-ffac-4a69-901a-09de8e5f4d78">
+
+
+
 ## TechStack Use
 
 `ReactJS`
